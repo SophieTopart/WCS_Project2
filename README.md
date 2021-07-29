@@ -1,4 +1,6 @@
-Fridgin' Hungry: Wild Code School project 2021, built in ReactJS
+![plot](./public/Fridgin.png)
+
+### Fridgin' Hungry: Wild Code School project 2021, built in ReactJS
 
 Link to our Github repository : https://github.com/Julien-Brcht-Rndlt/fridgin-hungry
 
